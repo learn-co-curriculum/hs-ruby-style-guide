@@ -3,6 +3,8 @@
   languages: ruby
 ---
 
+##Ruby Style Guide
+
 I'm going to go through a few basic best practices that you should use when writing Ruby code.
 
 Let's start with defining methods. When you define a method, you use the def keyword, and follow it with the name of the method, right? Well, if your method takes an argument, please plug in parentheses exactly after the method name. Don't put a space in between, directly plug in the parentheses.
