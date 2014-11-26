@@ -47,4 +47,4 @@ end
 
 Why do we need to follow these simple style rules when writing your Ruby code? You need to be mindful of other programmers. If you ever ask for help and your code is just completely ugly, you'll be making it much more harder for the person helping you. Or when you're working, at a tech place you somehow managed to land a job at, and you're assigned a partner to build a program with... and your part of the code is completely ugly, it'll be much harder for consistency to remain.
 
-So don't be selfish, follow these simple rules and thank me later. If you ever need a reference, go on 
+So don't be selfish, follow these simple rules and thank me later. If you ever need a reference, come back to this page. 
