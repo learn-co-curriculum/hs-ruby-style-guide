@@ -37,9 +37,9 @@ def MORETHANONEWORD
 end
 ```
 ###Defining Classes
-On the other hand, class names are **capitalized and CamelCased**. That means that if you're using multiple words to name your class, push them right up against eachother and capitalize each new word. Your class would look like this:
+On the other hand, class names are **Capitalized and CamelCased**. That means that if you're using multiple words to name your class, push them right up against eachother and capitalize each new word. Your class would look like this:
 ```ruby
-class myAwesomeClass
+class MyAwesomeClass
 end
 ```
 ### Two Space Indentations
