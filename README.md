@@ -1,7 +1,4 @@
----
-  tags: style, kids
-  languages: ruby
----
+
 
 ### Ruby Style Guide
 <img src="https://after-school-assets.s3.amazonaws.com/style.png" width="200px" align="right" hspace="10">When you're coding, it's easy to write your methods and classes without giving much thought to how the code actually *looks* in the file. But, being mindful of how you lay out the code - where you put your indentations, parentheses, hard returns, etc. - makes your code much more readable. That'll make you and the coders you work with much happier down the road because it'll be much easier to understand what is happening in your code. Here are a few style pointers...
