@@ -55,5 +55,3 @@ So don't be selfish, follow these simple rules and thank me later.
 
 
 <a href='https://learn.co/lessons/hs-ruby-style-guide' data-visibility='hidden'>View this lesson on Learn.co</a>
-
-<a href='https://learn.co/lessons/hs-ruby-style-guide' data-visibility='hidden'>View this lesson on Learn.co</a>
