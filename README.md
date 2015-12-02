@@ -53,3 +53,5 @@ Why do you need to follow these simple style rules when writing your Ruby code? 
 So don't be selfish, follow these simple rules and thank me later. 
 
 
+
+<a href='https://learn.co/lessons/hs-ruby-style-guide' data-visibility='hidden'>View this lesson on Learn.co</a>
