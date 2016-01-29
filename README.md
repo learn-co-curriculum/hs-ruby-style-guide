@@ -54,4 +54,4 @@ So don't be selfish, follow these simple rules and thank me later.
 
 
 
-<a href='https://learn.co/lessons/hs-ruby-style-guide' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-ruby-style-guide' title='Ruby Style Guide'>Ruby Style Guide</a> on Learn.co and start learning to code for free.</p>
